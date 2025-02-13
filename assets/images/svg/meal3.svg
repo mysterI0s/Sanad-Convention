@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136 136">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-1" d="M114.56,35.07l2.44-4.07h1v-2h1v-2l-4-4-3-1-2,1v1l-1,1,.4,1h-.4v1l-.87.87c-9.11-8.68-21.06-14.4-34.32-15.61l-.81-3.25,2-1-1-1v-2l-1-2h-7l-2,1.23v3.77l1,.96v3.16c-13.48.81-25.7,6.27-35.1,14.78l-.9-.9-1-2,.5-.46-1.5-.54h-2l-5,4v2h1.43l-.43,1,1,1,1.67,2.5c-7.92,9.85-12.67,22.37-12.67,36,0,31.76,25.74,57.5,57.5,57.5s57.5-25.74,57.5-57.5c0-12.91-4.26-24.83-11.44-34.43Z"/>
+    </clipPath>
+  </defs>
+  <g id="Isolation_Mode" data-name="Isolation Mode">
+    <g class="cls-2">
+      <image width="1024" height="1024" transform="scale(.13)" xlink:href="../../NOVA/photos/مشاريب.png"/>
+    </g>
+  </g>
+</svg>
